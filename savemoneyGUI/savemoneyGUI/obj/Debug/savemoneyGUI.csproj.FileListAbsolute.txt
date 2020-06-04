@@ -1,0 +1,15 @@
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\bin\Debug\savemoneyGUI.exe.config
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\bin\Debug\savemoneyGUI.exe
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\bin\Debug\savemoneyGUI.pdb
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI.csprojAssemblyReference.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\MainWindow.g.cs
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\App.g.cs
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI_MarkupCompile.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI_MarkupCompile.lref
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\MainWindow.baml
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI.g.resources
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI.Properties.Resources.resources
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI.csproj.GenerateResource.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI.csproj.CoreCompileInputs.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI.exe
+C:\Users\poi20\Desktop\C Sharp\Test_Project\savemoneyGUI\savemoneyGUI\obj\Debug\savemoneyGUI.pdb

@@ -1,0 +1,33 @@
+﻿<Window x:Class="savemoneyGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:savemoneyGUI"
+        mc:Ignorable="d"
+        Title="SaveMoney" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Oom.jpg"/>
+        </Grid.Background>
+
+        <TextBox x:Name="txtInput" HorizontalAlignment="Left" Height="23" Margin="243,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtInout" HorizontalAlignment="Left" Height="23" Margin="242,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Height="23" Margin="244,277,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtSumday" HorizontalAlignment="Left" Height="23" Margin="406,350,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Click_Submit" Content="คำนวน" HorizontalAlignment="Right" Margin="0,348,631,0" VerticalAlignment="Top" Width="86" Height="27" Click="Click_Submit_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="91,65,0,0" TextWrapping="Wrap" Text="รายรับ" VerticalAlignment="Top" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="453,63,0,0" TextWrapping="Wrap" Text="บาท / วัน" VerticalAlignment="Top" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="87,140,0,0" TextWrapping="Wrap" Text="รายจ่าย" VerticalAlignment="Top" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="451,137,0,0" TextWrapping="Wrap" Text="บาท / วัน" VerticalAlignment="Top" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="455,271,0,0" TextWrapping="Wrap" Text="บาท" VerticalAlignment="Top" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="62,270,0,0" TextWrapping="Wrap" Text="ราคาของที่ต้องการ" VerticalAlignment="Top" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="180,344,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="187" FontSize="22"><Run Text="คุณต้อง"/><Run Text="เก็บเงินทั้งหมด"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="568,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22"><Run Text="วัน"/><Run Text=" ("/><Run Text="ไม่ต้องกรอก"/><Run Text=")"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="83,207,0,0" TextWrapping="Wrap" Text="เงินคงเหลือ" VerticalAlignment="Top" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="451,208,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22"><Run Text="บาท / "/><Run Text="วั"/><Run Text="น "/><Run Text="("/><Run Text="ไม่ต้องกรอก"/><Run Text=")"/></TextBlock>
+        <TextBox x:Name="moneySave" HorizontalAlignment="Left" Height="23" Margin="244,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="557,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
