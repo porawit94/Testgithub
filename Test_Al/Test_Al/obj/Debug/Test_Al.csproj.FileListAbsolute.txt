@@ -1,0 +1,15 @@
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\bin\Debug\Test_Al.exe.config
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\bin\Debug\Test_Al.exe
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\bin\Debug\Test_Al.pdb
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al.csprojAssemblyReference.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\MainWindow.g.cs
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\App.g.cs
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al_MarkupCompile.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al_MarkupCompile.lref
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\MainWindow.baml
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al.g.resources
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al.Properties.Resources.resources
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al.csproj.GenerateResource.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al.csproj.CoreCompileInputs.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al.exe
+C:\Users\poi20\Desktop\C Sharp\Test_Project\Test_Al\Test_Al\obj\Debug\Test_Al.pdb
