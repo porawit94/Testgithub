@@ -17,7 +17,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="643,183,0,0" TextWrapping="Wrap" Text="Inpufrist-last name" VerticalAlignment="Top" FontSize="16" Width="136"/>
         <Button x:Name="add" Content="Add" HorizontalAlignment="Left" Margin="128,123,0,0" VerticalAlignment="Top" Width="75" Click="add_Click"/>
         <Button x:Name="remove" Content="Remove" HorizontalAlignment="Left" Margin="127,241,0,0" VerticalAlignment="Top" Width="75" Click="remove_Click"/>
-        <Button x:Name="showData" Content="ShowData" HorizontalAlignment="Left" Margin="371,320,0,0" VerticalAlignment="Top" Width="75" Click="showData_Click"/>
+        <Button x:Name="showData" Content="ShowData" HorizontalAlignment="Left" Margin="125,303,0,0" VerticalAlignment="Top" Width="75" Click="showData_Click"/>
         <TextBlock HorizontalAlignment="Left" Margin="664,123,0,0" TextWrapping="Wrap" Text="InputEmail" VerticalAlignment="Top" FontSize="16">
             <TextBlock.Background>
                 <ImageBrush ImageSource="BG.jpg"/>
@@ -25,6 +25,9 @@
         </TextBlock>
         <TextBox x:Name="txtKeyremove" HorizontalAlignment="Left" Height="23" Margin="262,242,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="356"/>
         <TextBlock HorizontalAlignment="Left" Margin="647,243,0,0" TextWrapping="Wrap" Text="InputKeyremove" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtShow" HorizontalAlignment="Left" Height="23" Margin="263,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="357"/>
+        <TextBox x:Name="txtCount" HorizontalAlignment="Left" Height="23" Margin="264,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="355"/>
+        <TextBlock HorizontalAlignment="Left" Margin="137,354,0,0" TextWrapping="Wrap" Text="Count" VerticalAlignment="Top" FontSize="16"/>
 
     </Grid>
 </Window>

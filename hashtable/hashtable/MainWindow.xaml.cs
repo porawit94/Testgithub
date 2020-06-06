@@ -45,9 +45,9 @@ namespace hashtable
 
             foreach (string key in collection)
             {
-                MessageBox.Show(hashtable[key].ToString());
+                txtShow.Text = (hashtable[key].ToString());
             }
-            MessageBox.Show("Count = " + hashtable.Count);
+            txtCount.Text = ("Count = " + hashtable.Count);
         }
     }
 }
