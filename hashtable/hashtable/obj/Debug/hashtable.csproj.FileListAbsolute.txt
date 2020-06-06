@@ -1,0 +1,15 @@
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\bin\Debug\hashtable.exe.config
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\bin\Debug\hashtable.exe
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\bin\Debug\hashtable.pdb
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable.csprojAssemblyReference.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\MainWindow.g.cs
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\App.g.cs
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable_MarkupCompile.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable_MarkupCompile.lref
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\MainWindow.baml
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable.g.resources
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable.Properties.Resources.resources
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable.csproj.GenerateResource.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable.exe
+C:\Users\poi20\Desktop\C Sharp\Test_Project\hashtable\hashtable\obj\Debug\hashtable.pdb
